@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmrah22
-- 👀 I’m interested in cloud computing, client-server technology and Python programming.
+- 👀 My areas of interest are in technical support, IT support, and cloud computing.
 - 🌱 I’m currently learning fundamentals of Amazon Web Services (AWS) to get an AWS Cloud Practitioner Certification.
 - 💞️ I’m looking to collaborate on practicing AWS resources like VPC, EC2 with ELB and Auto-Scaling, S3, Route 53, RDS, DynamoDB, Aurora, Athena, CloudFormation, CLI, Elastic Beanstalk, ECS, ECR, EKS, Fargate, CloudWatch, IAM, CloudTrail, Cost Explorer, Budgets, and Organizations. 
 - 📫 Feel free to reach out to me on https://www.linkedin.com/in/md-mustafizur-rahman-eit-67a88a137/
